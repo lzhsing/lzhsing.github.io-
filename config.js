@@ -6,8 +6,8 @@ var config = {
         "屏幕前是心上人",
         "今天是你的生日",
         "祝你生日快乐！！！",
-        "每天都要好好吃饭",
-        "都要开心哦(人 •͈ᴗ•͈) ♡♡ ",
+        "每天都要好好吃饭哦",
+        "每天都要开心哦(人 •͈ᴗ•͈) ♡♡ ",
     ],
 
     imgs: {
@@ -17,11 +17,11 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "装饰",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐！！！",
         story: "A MESSAGE FOR YOU",
     }
 };
